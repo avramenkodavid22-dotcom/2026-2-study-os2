@@ -1,0 +1,14 @@
+{
+  "name": "arch-pc",
+  "version": "1.0.0",
+  "description": "Архитектура ЭВМ",
+  "main": "index.js",
+  "repository": "ssh://git@gitverse.ru:2222/xgorfo/study_2026-2027_arch-pc.git",
+  "author": "xgorfo <xgorfo@yandex.ru>",
+  "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-customizable"
+	}
+    }
+}
